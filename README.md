@@ -1,4 +1,4 @@
-Tip
+Tip 
 ==================
 
 Tip Calculator app for CodePath
